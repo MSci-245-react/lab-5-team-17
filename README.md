@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 # lab-5-team-17
-Production: <[https://your-netlify-domain.netlify.app](https://lab-5-team-17.netlify.app/)>
+Production: <[lab-5-team-17.netlify](https://lab-5-team-17.netlify.app/)>
 
 
 [![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-7f7980b617ed060a017424585567c406b6ee15c891e84e1186181d67ecf80aa0.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=13753260)
