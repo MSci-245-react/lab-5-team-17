@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
-import { useDispatch, useSelector } from 'react-redux';
-import { incrementByAmount } from './reducers/counterSlice';
+import { useSelector, useDispatch } from 'react-redux';
+import { incrementByAmount } from './counterSlice';
 
 const IncrementByAmount = () => {
   const [inputAmount, setInputAmount] = useState(1);
