@@ -12,3 +12,10 @@ export const RestaurantList = ({loadRestaurants, restaurants}) => {
         </ul>
         );
   }
+
+const mapStateToProps = state => ({
+    restaurants: state.restaurants.records,
+});
+
+const mapDispatchToProps = {loadRestaurants};
+export default connect(mapStateToProps, mapDispatchToProps)(RestaurantList);
